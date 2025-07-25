@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About Me
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Affiliations</a>. PhD Research Scholar, IIT Kanpur.
 
 profile:
   align: right
@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>ACE 205</p>
-    <p>Multimedia Wireless Lab</p>
+    <p>Multimedia Wireless Networks Lab</p>
     <p>Department of Electrical Engineering, IIT Kanpur</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
