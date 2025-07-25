@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
         },{id: "nav-knowledge-sharing",
           title: "Knowledge Sharing",
           description: "Learning is a lifelong journey, and this is my humble effort to give back to society what I have gained along the way.",
