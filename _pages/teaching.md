@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+permalink: /Teaching/
+title: Teaching
+description: Learning is a lifelong journey, and this is my humble effort to give back to society what I have gained along the way.
 nav: true
 nav_order: 6
 ---
