@@ -13,7 +13,7 @@ profile:
     <p>Multimedia Wireless Networks Lab</p>
     <p>Department of Electrical Engineering, IIT Kanpur</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -29,4 +29,4 @@ latest_posts:
 
 Anand Mehrotra is a final-year Ph.D. research scholar in the Department of Electrical Engineering at the Indian Institute of Technology (IIT) Kanpur, India. He is working under the guidance of Prof. Aditya Jagannatham and is a Graduate Student Member of the IEEE.
 
-Anand holds B.Tech and M.Tech degrees in Electronics and Communication Engineering from Dr. A.P.J. Abdul Kalam Technical University, formerly known as Uttar Pradesh Technical University. His research focuses on advanced communication systems, with particular emphasis on 5G and next-generation wireless technologies. His work aims to drive innovation in the theory and real-world applications of future communication networks.
+He holds B.Tech and M.Tech degrees in Electronics and Communication Engineering from Dr. A.P.J. Abdul Kalam Technical University, formerly known as Uttar Pradesh Technical University. His research is primarily focused on the design and analysis of advanced communication techniques for 5G, 6G, and beyond wireless networks, with particular emphasis on Orthogonal time frequency space (OTFS), Intelligent reflecting surface(IRS), Integrated sensing and communication (ISAC), mmWave Communication, visible light communication (VLC). His work aims to drive innovation in the theory and real-world applications of future communication networks.
