@@ -6,8 +6,8 @@ inline: true
 related_posts: false
 ---
 
-Our work is accepted for publication in the IEEE Transactions on Communications, "Online Bayesian Learning Aided
-Sparse CSI Estimation in OTFS Modulated MIMO Systems for Ultra-High-Doppler Scenarios". More details can be found at
+Our work is accepted by **IEEE Transactions on Communications**: "Online Bayesian Learning Aided
+Sparse CSI Estimation in OTFS Modulated MIMO Systems for Ultra-High-Doppler Scenarios".
 
 <!--
 
