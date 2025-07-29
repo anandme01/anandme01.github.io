@@ -4,8 +4,8 @@ title: About Me
 permalink: /
 subtitle:> 
 <!--<a href='#'>Affiliations</a>--> 
-<p>PhD Research Scholar, IIT Kanpur</p>
-<p>Multimedia Wireless Networks Lab</p>
+<p><strong>Ph.D. Research Scholar</strong>, Indian Institute of Technology Kanpur (IIT Kanpur)</p>
+<p><strong>Lab:</strong> Multimedia Wireless Networks Lab</p>
 
 profile:
   align: right
