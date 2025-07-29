@@ -30,9 +30,3 @@ latest_posts:
 Anand Mehrotra is a final-year Ph.D. research scholar in the Department of Electrical Engineering at the Indian Institute of Technology (IIT) Kanpur, India. He is working under the guidance of Prof. Aditya Jagannatham and is a Graduate Student Member of the IEEE.
 
 Anand holds B.Tech and M.Tech degrees in Electronics and Communication Engineering from Dr. A.P.J. Abdul Kalam Technical University, formerly known as Uttar Pradesh Technical University. His research focuses on advanced communication systems, with particular emphasis on 5G and next-generation wireless technologies. His work aims to drive innovation in the theory and real-world applications of future communication networks.
-
-Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `my_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
