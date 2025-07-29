@@ -405,8 +405,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-work-is-selected-for-publication-in-the-ieee-international-conference-on-signal-processing-and-communications-spcom-channel-estimation-techniques-for-cp-aided-otfs-systems-relying-on-practical-pulse-shapes",
-          title: 'Our work is selected for publication in the IEEE International Conference on Signal...',
+            },},{id: "news-our-work-is-accepted-by-ieee-international-conference-on-signal-processing-and-communications-spcom-channel-estimation-techniques-for-cp-aided-otfs-systems-relying-on-practical-pulse-shapes",
+          title: 'Our work is accepted by IEEE International Conference on Signal Processing and Communications...',
           description: "",
           section: "News",},{id: "news-our-work-is-accepted-by-ieee-transactions-on-communications-data-aided-csi-estimation-using-affine-precoded-superimposed-pilots-in-otfs-mimo-systems",
           title: 'Our work is accepted by IEEE Transactions on Communications: “Data-Aided CSI Estimation Using...',
