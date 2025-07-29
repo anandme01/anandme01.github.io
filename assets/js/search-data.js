@@ -405,8 +405,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-our-work-is-selected-for-publication-in-the-ieee-international-conference-on-signal-processing-and-communications-spcom-channel-estimation-techniques-for-cp-aided-otfs-systems-relying-on-practical-pulse-shapes",
+          title: 'Our work is selected for publication in the IEEE International Conference on Signal...',
           description: "",
           section: "News",},{id: "news-i-am-excited-to-share-that-our-paper-data-aided-csi-estimation-using-affine-precoded-superimposed-pilots-in-otfs-mimo-systems-has-been-accepted-in-ieee-transactions-on-communications",
           title: 'I am Excited to share that our paper “Data-Aided CSI Estimation Using Affine-Precoded...',
