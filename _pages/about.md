@@ -4,8 +4,7 @@ title: About Me
 permalink: /
 subtitle:> 
 <!--<a href='#'>Affiliations</a>--> 
-<p><strong>Ph.D. Research Scholar</strong>, Indian Institute of Technology Kanpur (IIT Kanpur)</p>
-<p><strong>Lab:</strong> Multimedia Wireless Networks Lab</p>
+
 
 profile:
   align: right
@@ -13,6 +12,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>ACES 205</p>
+    <p><strong>Ph.D. Research Scholar</strong>, Indian Institute of Technology Kanpur (IIT Kanpur)</p>
+    <p><strong>Lab:</strong> Multimedia Wireless Networks Lab</p>
     <p>Department of Electrical Engineering, IIT Kanpur</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
