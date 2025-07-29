@@ -2,7 +2,7 @@
 layout: about
 title: About Me
 permalink: /
-subtitle:> <!--<a href='#'>Affiliations</a>.--> 
+subtitle:> <!--<a href='#'>Affiliations</a>--> 
 <p>PhD Research Scholar, IIT Kanpur</p>
 <p>Multimedia Wireless Networks Lab</p>
 
