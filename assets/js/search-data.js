@@ -413,8 +413,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-i-am-excited-to-share-that-our-paper-data-aided-csi-estimation-using-affine-precoded-superimposed-pilots-in-otfs-mimo-systems-has-been-accepted-in-ieee-transactions-on-communications",
+          title: 'I am Excited to share that our paper “Data-Aided CSI Estimation Using Affine-Precoded...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
