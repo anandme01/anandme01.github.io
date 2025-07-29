@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-06-06 22:59:00-0400
 inline: true
 related_posts: false
 ---
-
-A simple inline announcement.
+Our work is selected for publication in the IEEE International Conference on Signal Processing and Communications (SPCOM): "Channel Estimation Techniques for CP-Aided OTFS Systems Relying on Practical Pulse Shapes".
