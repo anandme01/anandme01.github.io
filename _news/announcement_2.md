@@ -6,7 +6,8 @@ inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+Our work is accepted for publication in the IEEE Transactions on Communications, "Online Bayesian Learning Aided
+Sparse CSI Estimation in OTFS Modulated MIMO Systems for Ultra-High-Doppler Scenarios".
 
 ---
 
