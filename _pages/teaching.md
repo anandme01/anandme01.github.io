@@ -7,9 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+As I approach the final year of my PhD journey, I believe this is the right time to share the knowledge and insights I have gained along the way. My academic path has been shaped by countless hours of learning, research, and exploration, and I feel a deep sense of responsibility to give back to the community that has supported and inspired me. Through this platform, I hope to make complex ideas more accessible, spark curiosity, and encourage others on their own paths of lifelong learning.
 
 <!-- pages/teaching.md -->
 <div class="topics">
