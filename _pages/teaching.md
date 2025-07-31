@@ -6,7 +6,17 @@ description: Learning is a lifelong journey, and this is my humble effort to giv
 nav: true
 nav_order: 6
 ---
-
+<div style="max-width: 800px; margin: 2rem auto;">
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+    <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+      src="https://www.youtube.com/embed/dQw4w9WgXcQ" 
+      title="YouTube video player" 
+      frameborder="0" 
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+      allowfullscreen>
+    </iframe>
+  </div>
+</div>
 As I approach the final year of my PhD journey, I believe this is the right time to share the knowledge and insights I have gained along the way. My academic path has been shaped by countless hours of learning, research, and exploration, and I feel a deep sense of responsibility to give back to the community that has supported and inspired me. Through this platform, I hope to make complex ideas more accessible, spark curiosity, and encourage others on their own paths of lifelong learning.
 
 <!-- pages/teaching.md -->
