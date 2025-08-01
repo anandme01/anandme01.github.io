@@ -1,10 +1,29 @@
+<!--
 ---
 layout: blogs
 permalink: /Memories in Frames/
 title: Memories in Frames
 description: Every picture tells a story. These photos capture moments that shaped my journey — moments of joy, friendship, learning, and growth. I hope they bring back as much warmth to you as they do to me
 nav: true
-nav_order: 7
+nav_order: 7 -->
+
+---
+layout: default
+permalink: /Memories in Frames/
+title: Memories in Frames
+nav: true
+nav_order: 1
+pagination:
+  enabled: true
+  collection: posts
+  permalink: /page/:num/
+  per_page: 5
+  sort_field: date
+  sort_reverse: true
+  trail:
+    before: 1 # The number of links before the current page
+    after: 3 # The number of links after the current page
+---
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
