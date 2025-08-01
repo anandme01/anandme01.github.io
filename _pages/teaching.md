@@ -4,7 +4,7 @@ permalink: /Knowledge Sharing/
 title: Knowledge Sharing
 description: Learning is a lifelong journey, and this is my humble effort to give back to society what I have gained along the way.
 nav: true
-nav_order: 6
+nav_order: 2
 ---
 <div style="max-width: 500px; margin: 2rem auto;">
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
