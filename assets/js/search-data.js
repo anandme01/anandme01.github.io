@@ -16,19 +16,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-memories-in-frames",
-          title: "Memories in Frames",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/blog/";
-          },
         },{id: "nav-knowledge-sharing",
           title: "Knowledge Sharing",
           description: "Learning is a lifelong journey, and this is my humble effort to give back to society what I have gained along the way.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/Knowledge%20Sharing/";
+          },
+        },{id: "nav-memories-in-frames",
+          title: "Memories in Frames",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/blog/";
           },
         },{id: "post-a-post-with-plotly-js",
         
