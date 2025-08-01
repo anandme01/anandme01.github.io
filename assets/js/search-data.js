@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-memories-in-frames",
           title: "Memories in Frames",
-          description: "members of the lab or group",
+          description: "Every picture tells a story. These photos capture moments that shaped my journey — moments of joy, friendship, learning, and growth. I hope they bring back as much warmth to you as they do to me",
           section: "Navigation",
           handler: () => {
             window.location.href = "/Memories%20in%20Frames/";
