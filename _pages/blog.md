@@ -16,6 +16,21 @@ pagination:
     after: 3 # The number of links after the current page
 ---
 
+<div class="container">
+  <div class="row">
+    <div class="col-md-4">
+      <img src="/assets/img/memories/photo1.jpg" class="img-fluid rounded shadow mb-3">
+    </div>
+    <div class="col-md-4">
+      <img src="/assets/img/memories/photo2.jpg" class="img-fluid rounded shadow mb-3">
+    </div>
+    <div class="col-md-4">
+      <img src="/assets/img/memories/photo3.jpg" class="img-fluid rounded shadow mb-3">
+    </div>
+  </div>
+</div>
+
+
 <div class="post">
 
 {% assign blog_name_size = site.blog_name | size %}
