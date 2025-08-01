@@ -17,18 +17,45 @@ pagination:
 ---
 
 <div class="container">
-  <div class="row">
-    <div class="col-md-4">
-      <img src="/assets/img/book_covers/with_Adarsh.jpg" class="img-fluid rounded shadow mb-3">
+  <div class="row text-center">
+
+    <div class="col-md-4 mb-4">
+      <img src="/assets/img/book_folder/photo1.jpg" class="img-fluid rounded shadow" alt="Photo 1">
+      <p class="mt-2">My First Lab Day</p>
     </div>
-    <div class="col-md-4">
-      <img src="/assets/img/book_covers/with_Shariq_sir.jpg" class="img-fluid rounded shadow mb-3">
+
+    <div class="col-md-4 mb-4">
+      <img src="/assets/img/book_folder/photo2.jpg" class="img-fluid rounded shadow" alt="Photo 2">
+      <p class="mt-2">Conference 2024</p>
     </div>
-    <div class="col-md-4">
-      <img src="/assets/img/book_covers/with_ekant_sir.jpg" class="img-fluid rounded shadow mb-3">
+
+    <div class="col-md-4 mb-4">
+      <img src="/assets/img/book_folder/photo3.jpg" class="img-fluid rounded shadow" alt="Photo 3">
+      <p class="mt-2">Friends and Fun</p>
     </div>
+
+  </div>
+
+  <div class="row text-center">
+
+    <div class="col-md-4 mb-4">
+      <img src="/assets/img/book_folder/photo4.jpg" class="img-fluid rounded shadow" alt="Photo 4">
+      <p class="mt-2">Achievement Celebration</p>
+    </div>
+
+    <div class="col-md-4 mb-4">
+      <img src="/assets/img/book_folder/photo5.jpg" class="img-fluid rounded shadow" alt="Photo 5">
+      <p class="mt-2">Memorable Group Photo</p>
+    </div>
+
+    <div class="col-md-4 mb-4">
+      <img src="/assets/img/book_folder/photo6.jpg" class="img-fluid rounded shadow" alt="Photo 6">
+      <p class="mt-2">Evening Discussions</p>
+    </div>
+
   </div>
 </div>
+
 
 
 <div class="post">
