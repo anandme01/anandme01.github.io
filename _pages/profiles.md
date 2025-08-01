@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /Memories in Frames/
 title: Memories in Frames
-description: members of the lab or group
+description: Every picture tells a story. These photos capture moments that shaped my journey — moments of joy, friendship, learning, and growth. I hope they bring back as much warmth to you as they do to me
 nav: true
 nav_order: 7
 
