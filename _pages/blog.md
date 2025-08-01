@@ -21,7 +21,7 @@ pagination:
 
     <div class="col-md-4 mb-4">
       <img src="/assets/img/book_covers/Photoa.jpg" class="img-fluid rounded shadow" alt="Photo 1">
-      <p class="mt-2">My First Lab Day</p>
+      <p class="mt-2">With Prof. Chockalingam - EECS @ IISc</p>
     </div>
 
     <div class="col-md-4 mb-4">
@@ -40,17 +40,17 @@ pagination:
 
     <div class="col-md-4 mb-4">
       <img src="/assets/img/book_covers/Photo3.jpg" class="img-fluid rounded shadow" alt="Photo 4">
-      <p class="mt-2">Achievement Celebration</p>
+      <p class="mt-2">Memorable Group Photo</p>
     </div>
 
     <div class="col-md-4 mb-4">
       <img src="/assets/img/book_covers/Photo4.jpg" class="img-fluid rounded shadow" alt="Photo 5">
-      <p class="mt-2">Memorable Group Photo</p>
+      <p class="mt-2"></p>
     </div>
 
 <div class="col-md-4 mb-4">
       <img src="/assets/img/book_covers/with_ekant_sir.jpg" class="img-fluid rounded shadow" alt="Photo 6">
-      <p class="mt-2">With my mentor Prof. Ekant Sharma from IIT Roorkee</p>
+      <p class="mt-2">With my mentor Prof. Ekant Sharma @ IIT Roorkee</p>
     </div>
 
   </div>
