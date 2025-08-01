@@ -20,17 +20,17 @@ pagination:
   <div class="row text-center">
 
     <div class="col-md-4 mb-4">
-      <img src="/assets/img/book_cover/Photoa.jpg" class="img-fluid rounded shadow" alt="Photo 1">
+      <img src="/assets/img/book_covers/Photoa.jpg" class="img-fluid rounded shadow" alt="Photo 1">
       <p class="mt-2">My First Lab Day</p>
     </div>
 
     <div class="col-md-4 mb-4">
-      <img src="/assets/img/book_cover/Photo1.jpg" class="img-fluid rounded shadow" alt="Photo 2">
+      <img src="/assets/img/book_covers/Photo1.jpg" class="img-fluid rounded shadow" alt="Photo 2">
       <p class="mt-2">Conference 2024</p>
     </div>
 
     <div class="col-md-4 mb-4">
-      <img src="/assets/img/book_cover/Photo2.jpg" class="img-fluid rounded shadow" alt="Photo 3">
+      <img src="/assets/img/book_covers/Photo2.jpg" class="img-fluid rounded shadow" alt="Photo 3">
       <p class="mt-2">Friends and Fun</p>
     </div>
 
@@ -39,17 +39,17 @@ pagination:
   <div class="row text-center">
 
     <div class="col-md-4 mb-4">
-      <img src="/assets/img/book_cover/Photo3.jpg" class="img-fluid rounded shadow" alt="Photo 4">
+      <img src="/assets/img/book_covers/Photo3.jpg" class="img-fluid rounded shadow" alt="Photo 4">
       <p class="mt-2">Achievement Celebration</p>
     </div>
 
     <div class="col-md-4 mb-4">
-      <img src="/assets/img/book_cover/Photo4.jpg" class="img-fluid rounded shadow" alt="Photo 5">
+      <img src="/assets/img/book_covers/Photo4.jpg" class="img-fluid rounded shadow" alt="Photo 5">
       <p class="mt-2">Memorable Group Photo</p>
     </div>
 
     <div class="col-md-4 mb-4">
-      <img src="/assets/img/book_cover/with_ekant_sir.jpg" class="img-fluid rounded shadow" alt="Photo 6">
+      <img src="/assets/img/book_covers/with_ekant_sir.jpg" class="img-fluid rounded shadow" alt="Photo 6">
       <p class="mt-2">Evening Discussions</p>
     </div>
 
