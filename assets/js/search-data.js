@@ -30,13 +30,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/Knowledge%20Sharing/";
           },
-        },{id: "nav-memories-in-frames",
-          title: "Memories in Frames",
-          description: "Every picture tells a story. These photos capture moments that shaped my journey — moments of joy, friendship, learning, and growth. I hope they bring back as much warmth to you as they do to me",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/Memories%20in%20Frames/";
-          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
