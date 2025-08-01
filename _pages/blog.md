@@ -19,13 +19,13 @@ pagination:
 <div class="container">
   <div class="row">
     <div class="col-md-4">
-      <img src="/assets/img/memories/photo1.jpg" class="img-fluid rounded shadow mb-3">
+      <img src="/assets/img/book_covers/with_Adarsh.jpg" class="img-fluid rounded shadow mb-3">
     </div>
     <div class="col-md-4">
-      <img src="/assets/img/memories/photo2.jpg" class="img-fluid rounded shadow mb-3">
+      <img src="/assets/img/book_covers/with_Shariq_sir.jpg" class="img-fluid rounded shadow mb-3">
     </div>
     <div class="col-md-4">
-      <img src="/assets/img/memories/photo3.jpg" class="img-fluid rounded shadow mb-3">
+      <img src="/assets/img/book_covers/with_ekant_sir.jpg" class="img-fluid rounded shadow mb-3">
     </div>
   </div>
 </div>
