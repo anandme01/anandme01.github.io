@@ -48,10 +48,7 @@ pagination:
       <p class="mt-2">Memorable Group Photo</p>
     </div>
 
-    <div class="col-md-4 mb-4">
-      <img src="/assets/img/book_covers/with_ekant_sir.jpg" class="img-fluid rounded shadow" alt="Photo 6">
-      <p class="mt-2">Evening Discussions</p>
-    </div>
+
 
   </div>
 </div>
