@@ -88,8 +88,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: When High Doppler meets OTFS
-blog_description: a simple whitespace theme for academics
+blog_name: Memory in frames
+blog_description: Every picture tells a story. These photos capture moments that shaped my journey — moments of joy, friendship, learning, and growth. I hope they bring back as much warmth to you as they do to me.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
