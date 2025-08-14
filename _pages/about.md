@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <strong>PhD Research Scholar</strong> | <strong>Multimedia Wireless Networks Lab</strong> | <strong>Department of Electrical Engineering</strong>| <strong>Indian Institute of Technology, Kanpur</strong>
 
 profile:
   align: right
@@ -13,8 +13,8 @@ profile:
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: flase # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -22,13 +22,13 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<div style="text-align: justify;">
+Anand Mehrotra is a final-year Ph.D. research scholar in the Department of Electrical Engineering at the Indian Institute of Technology (IIT) Kanpur, India. He is working under the guidance of Prof. Aditya Jagannatham and is a Graduate Student Member of the IEEE.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+He holds B.Tech and M.Tech degrees in Electronics and Communication Engineering from Dr. A.P.J. Abdul Kalam Technical University, formerly known as Uttar Pradesh Technical University. His research is primarily focused on the design and analysis of advanced communication techniques for 5G, 6G, and beyond wireless networks, with particular emphasis on Orthogonal time frequency space (OTFS), Intelligent reflecting surface (IRS), Integrated sensing and communication (ISAC), mmWave Communication, and visible light communication (VLC). His work aims to drive innovation in the theory and real-world applications of future communication networks.
+</div>
