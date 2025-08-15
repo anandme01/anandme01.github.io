@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <p><strong>PhD Research Scholar</strong> | <strong>Multimedia Wireless Networks Lab</strong> |<\p> <p><strong>Department of Electrical Engineering</strong>| <strong>Indian Institute of Technology, Kanpur</strong><\p>
+subtitle: <p><strong>PhD Research Scholar</strong> | <strong>Multimedia Wireless Networks Lab</strong> | <p><strong>Department of Electrical Engineering</strong><p> <p> <strong>Indian Institute of Technology, Kanpur</strong><p>
 
 
 profile:
@@ -13,12 +13,12 @@ profile:
 
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: flase # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit:  # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
