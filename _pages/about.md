@@ -2,10 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: <div> PhD Research Scholar | Multimedia Wireless Networks Lab |<br>
+subtitle: <p><div> PhD Research Scholar | Multimedia Wireless Networks Lab |<br>
   Department of Electrical Engineering<br>
-  Indian Institute of Technology, Kanpur
-</div>
+  Indian Institute of Technology, Kanpur </div><p>
 
 
 
