@@ -391,10 +391,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-our-work-is-accepted-by-ieee-international-conference-on-signal-processing-and-communications-spcom-channel-estimation-techniques-for-cp-aided-otfs-systems-relying-on-practical-pulse-shapes",
+            },},{id: "news-our-work-is-accepted-by-ieee-international-conference-on-signal-processing-and-communications-spcom-channel-estimation-techniques-for-cp-aided-otfs-systems-relying-on-practical-pulse-shapes",
           title: 'Our work is accepted by IEEE International Conference on Signal Processing and Communications...',
           description: "",
           section: "News",},{id: "news-our-work-is-accepted-by-ieee-international-conference-on-signal-processing-and-communications-spcom-channel-estimation-techniques-for-cp-aided-otfs-systems-relying-on-practical-pulse-shapes",
@@ -408,6 +405,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-our-work-is-accepted-by-ieee-transactions-on-communications-data-aided-csi-estimation-using-affine-precoded-superimposed-pilots-in-otfs-mimo-systems",
           title: 'Our work is accepted by IEEE Transactions on Communications: “Data-Aided CSI Estimation Using...',
+          description: "",
+          section: "News",},{id: "news-our-work-is-accepted-by-ieee-transactions-on-communications-online-bayesian-learning-aided-sparse-csi-estimation-in-otfs-modulated-mimo-systems-for-ultra-high-doppler-scenarios",
+          title: 'Our work is accepted by IEEE Transactions on Communications: “Online Bayesian Learning Aided...',
           description: "",
           section: "News",},{id: "news-our-work-is-accepted-by-ieee-99th-vehicular-technology-conference-vtc2024-spring-blms-and-brls-based-adaptive-csi-estimation-for-irs-assisted-siso-and-mimo-systems",
           title: 'Our work is accepted by IEEE 99th Vehicular Technology Conference (VTC2024-Spring): “BLMS and...',
