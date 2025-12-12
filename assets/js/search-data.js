@@ -408,7 +408,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-work-is-accepted-in-ieee-globecom-workshop-secure-hybrid-precoding-in-mmwave-mimo-otfs-system-in-the-presence-of-transmitter-iqi",
           title: 'Our work is accepted in IEEE Globecom Workshop: “Secure Hybrid Precoding in mmWave...',
           description: "",
-          section: "News",},{id: "news-i-am-glad-to-inform-you-that-i-am-the-runner-up-in-4-minute-thesis-4mt-competition-organized-at-globecom",
+          section: "News",},{id: "news-i-am-glad-to-inform-you-that-i-am-the-runner-up-in-4-minute-thesis-4mt-competition-organized-at-ieee-globecom",
           title: 'I am glad to inform you that I am the runner-up in 4...',
           description: "",
           section: "News",},{id: "projects-project-1",
