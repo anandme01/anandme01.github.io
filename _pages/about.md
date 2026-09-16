@@ -34,10 +34,15 @@ latest_posts:
 ---
 
 <div style="text-align: justify;">
-Anand Mehrotra is an **ANRF Postdoctoral Research Fellow** in the Department of Electronics and Communication Engineering at the **Indian Institute of Technology (IIT) Roorkee, India**, working under the supervision of **Prof. Ekant Sharma**. He received his **Ph.D. in Electrical Engineering** from the **Indian Institute of Technology (IIT) Kanpur, India**, under the guidance of **Prof. Aditya Jagannatham**. His doctoral thesis was titled *“Bayesian Learning-Driven CSI Estimation for OTFS-Modulated Next-Generation Wireless Systems.”*
+ <p>
+  Anand Mehrotra is an <strong>ANRF Postdoctoral Research Fellow</strong> in the Department of Electronics and Communication Engineering at the <strong>Indian Institute of Technology (IIT) Roorkee, India</strong>, working under the supervision of <strong>Prof. Ekant Sharma</strong>. He received his <strong>Ph.D. in Electrical Engineering</strong> from the <strong>Indian Institute of Technology (IIT) Kanpur, India</strong>, under the guidance of <strong>Prof. Aditya Jagannatham</strong>. His doctoral thesis was titled <em>“Bayesian Learning-Driven CSI Estimation for OTFS-Modulated Next-Generation Wireless Systems.”</em>
+  </p>
 
-He received his **B.Tech. and M.Tech. degrees in Electronics and Communication Engineering** from **Dr. A.P.J. Abdul Kalam Technical University**, formerly known as Uttar Pradesh Technical University.
+  <p>
+  He received his <strong>B.Tech. and M.Tech. degrees in Electronics and Communication Engineering</strong> from <strong>Dr. A.P.J. Abdul Kalam Technical University</strong>, formerly known as Uttar Pradesh Technical University.
+  </p>
 
-His research interests span the design, analysis, and development of advanced communication techniques for **5G, 6G, and beyond wireless networks**. His current research focuses on **OTFS, IRS, ISAC, mmWave communications, VLC, channel estimation, and next-generation wireless signal processing**. His work aims to develop theoretically sound and practically implementable solutions for emerging wireless communication, sensing, and intelligent radio systems.
-
+  <p>
+  His research interests span the design, analysis, and development of advanced communication techniques for <strong>5G, 6G, and beyond wireless networks</strong>. His current research focuses on <strong>OTFS, IRS, ISAC, mmWave communications, VLC, channel estimation, and next-generation wireless signal processing</strong>. His work aims to develop theoretically sound and practically implementable solutions for emerging wireless communication, sensing, and intelligent radio systems.
+  </p>
 </div>
