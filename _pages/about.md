@@ -2,9 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <p>
-<strong>ANRF PostDoc Research Scholar</strong> | <strong>Next Generation Wireless Research and Prototyping (WiNext) Lab</strong> | <strong>Department of Electronics and Communication</strong><p> <p> <strong>Indian Institute of Technology, Roorkee</strong>
-<strong>PhD Research Scholar</strong> | <strong>Multimedia Wireless Networks Lab</strong> | <strong>Department of Electrical Engineering</strong><p> <p> <strong>Indian Institute of Technology, Kanpur</strong><p>
+subtitle: >
+  <p>
+    <strong>ANRF Postdoctoral Research Scholar</strong> |
+    <strong>Next Generation Wireless Research and Prototyping (WiNext) Lab</strong> |
+    <strong>Department of Electronics and Communication Engineering</strong>
+  </p>
+  <p>
+    <strong>Indian Institute of Technology Roorkee</strong>
+  </p>
+
+  <p>
+    <strong>PhD Research Scholar</strong> |
+    <strong>Multimedia Wireless Networks Lab</strong> |
+    <strong>Department of Electrical Engineering</strong>
+  </p>
+  <p>
+    <strong>Indian Institute of Technology Kanpur</strong>
+  </p>
 
 
 
