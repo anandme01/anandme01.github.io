@@ -45,7 +45,10 @@ latest_posts:
 ---
 
 <div style="text-align: justify;">
-Anand Mehrotra is a final-year Ph.D. research scholar in the Department of Electrical Engineering at the Indian Institute of Technology (IIT) Kanpur, India. He is working under the guidance of Prof. Aditya Jagannatham and is a Graduate Student Member of the IEEE.
+Anand Mehrotra is an **ANRF Postdoctoral Research Fellow** in the Department of Electronics and Communication Engineering at the **Indian Institute of Technology (IIT) Roorkee, India**, working under the supervision of **Prof. Ekant Sharma**. He received his **Ph.D. in Electrical Engineering** from the **Indian Institute of Technology (IIT) Kanpur, India**, under the guidance of **Prof. Aditya Jagannatham**. His doctoral thesis was titled *“Bayesian Learning-Driven CSI Estimation for OTFS-Modulated Next-Generation Wireless Systems.”*
 
-He holds B.Tech and M.Tech degrees in Electronics and Communication Engineering from Dr. A.P.J. Abdul Kalam Technical University, formerly known as Uttar Pradesh Technical University. His research is primarily focused on the design and analysis of advanced communication techniques for 5G, 6G, and beyond wireless networks, with particular emphasis on Orthogonal time frequency space (OTFS), Intelligent reflecting surface (IRS), Integrated sensing and communication (ISAC), mmWave Communication, and visible light communication (VLC). His work aims to drive innovation in the theory and real-world applications of future communication networks.
+He received his **B.Tech. and M.Tech. degrees in Electronics and Communication Engineering** from **Dr. A.P.J. Abdul Kalam Technical University**, formerly known as Uttar Pradesh Technical University.
+
+His research interests span the design, analysis, and development of advanced communication techniques for **5G, 6G, and beyond wireless networks**. His current research focuses on **OTFS, IRS, ISAC, mmWave communications, VLC, channel estimation, and next-generation wireless signal processing**. His work aims to develop theoretically sound and practically implementable solutions for emerging wireless communication, sensing, and intelligent radio systems.
+
 </div>
