@@ -408,7 +408,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-work-is-accepted-in-ieee-globecom-workshop-secure-hybrid-precoding-in-mmwave-mimo-otfs-system-in-the-presence-of-transmitter-iqi",
           title: 'Our work is accepted in IEEE Globecom Workshop: “Secure Hybrid Precoding in mmWave...',
           description: "",
-          section: "News",},{id: "news-i-am-delighted-to-share-that-i-secured-the-runner-up-position-in-the-ieee-4-minute-thesis-4mt-competition-held-at-ieee-globecom-2025-in-taiwan",
+          section: "News",},{id: "news-i-am-delighted-to-share-that-i-secured-the-runner-up-position-in-the-ieee-comsoc-4-minute-thesis-4mt-competition-held-at-ieee-globecom-2025-in-taiwan",
           title: 'I am delighted to share that I secured the Runner-Up position in the...',
           description: "",
           section: "News",},{id: "news-our-work-is-accepted-by-ieee-transactions-on-communications-sequential-parameter-estimation-for-beam-squint-aware-thz-mimo-ofdm-isac-systems",
