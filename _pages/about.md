@@ -6,9 +6,9 @@ subtitle: >
   <p>
     <strong>ANRF Postdoctoral Research Scholar</strong> |
     <strong>Next Generation Wireless Research and Prototyping (WiNext) Lab</strong> |
-    <strong>Department of Electronics and Communication Engineering</strong>
-  </p>
+   </p>
   <p>
+     <strong>Department of Electronics and Communication Engineering</strong>
     <strong>Indian Institute of Technology Roorkee</strong>
   </p>
 
